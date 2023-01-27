@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning SQL, C now
 - 🦾 I know intermediate level C++, Java, HTML5
-- 📫 How to reach me ayberkyazikoz@gmail.com
+- 📫 How to reach me ayberkyazikoz@gmail.com or www.linkedin.com/in/ayberkyazikoz27
 
 <!---
 ayberkyazikoz/ayberkyazikoz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
