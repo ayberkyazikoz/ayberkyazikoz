@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @ayberkyazikoz<br>👀 I’m interested in software development<br>🌱 I’m currently learning Phyton and Mathlab right now<br>🦾 I know intermediate level Shell, Cmd, C, C++, Java, SQL and HTML5<br>👨‍💻 I think I'm good at Object-Oriented Programming.<br>📫 You can reach me ayberkyazikoz@gmail.com or www.linkedin.com/in/ayberkyazikoz27
+👋 Hi, I’m @ayberkyazikoz<br>👀 I’m interested in software development<br>🌱 I’m currently learning Phyton and Matlab right now<br>🦾 I know intermediate level Shell, Cmd, C, C++, Java, SQL and HTML5<br>👨‍💻 I think I'm good at Object-Oriented Programming.<br>📫 You can reach me ayberkyazikoz@gmail.com or www.linkedin.com/in/ayberkyazikoz27
 
 
 ## 🌐 Socials:
